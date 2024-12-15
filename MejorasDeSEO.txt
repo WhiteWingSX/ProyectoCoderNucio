@@ -1,0 +1,6 @@
+MEJORAS DEL "SEO":
+
+- Mejora en la ubicacion de los titulos
+- Reduccion de peso de las imagenes
+- Mejora en los tags "alt" de las imagenes
+- Inclusion de meta "Keywords" y "descripcion"
