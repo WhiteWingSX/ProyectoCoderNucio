@@ -1,5 +1,5 @@
 # Trabajo Practico
-## Tercera entrega
+## Entrega Final
 
 ### Sobre el proyecto:
 
@@ -9,6 +9,6 @@ con dietas sugeridas y ejercicios practicos para el día a día.
 
 ### Link en Netlify:
 
-Se puede ver el proyecto a traves del siguiente enlace:
+Se puede visualizar el proyecto a traves del siguiente enlace:
 
-[NUCIO - main page](https://nuciocoderhouse.netlify.app)
+[NUCIO - Link directo](https://nuciocoderhouse.netlify.app)
